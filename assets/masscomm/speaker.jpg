@@ -1,0 +1,1194 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<link rel="profile" href="//gmpg.org/xfn/11">
+	<meta name='robots' content='noindex, follow' />
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><!-- Google tag (gtag.js) consent mode dataLayer added by Site Kit -->
+<script id="google_gtagjs-js-consent-mode-data-layer">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {"ad_personalization":"denied","ad_storage":"denied","ad_user_data":"denied","analytics_storage":"denied","functionality_storage":"denied","security_storage":"denied","personalization_storage":"denied","region":["AT","BE","BG","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HR","HU","IE","IS","IT","LI","LT","LU","LV","MT","NL","NO","PL","PT","RO","SE","SI","SK"],"wait_for_update":500});
+window._googlesitekitConsentCategoryMap = {"statistics":["analytics_storage"],"marketing":["ad_storage","ad_user_data","ad_personalization"],"functional":["functionality_storage","security_storage"],"preferences":["personalization_storage"]};
+window._googlesitekitConsents = {"ad_personalization":"denied","ad_storage":"denied","ad_user_data":"denied","analytics_storage":"denied","functionality_storage":"denied","security_storage":"denied","personalization_storage":"denied","region":["AT","BE","BG","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HR","HU","IE","IS","IT","LI","LT","LU","LV","MT","NL","NO","PL","PT","RO","SE","SI","SK"],"wait_for_update":500};
+</script>
+<!-- End Google tag (gtag.js) consent mode dataLayer added by Site Kit -->
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.3 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Page not found - Masscomm Solutions</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Masscomm Solutions" />
+	<meta property="og:site_name" content="Masscomm Solutions" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/masscomm.pk\/#website","url":"https:\/\/masscomm.pk\/","name":"Masscomm Solutions (Pvt) Ltd.","description":"Event management Islamabad","publisher":{"@id":"https:\/\/masscomm.pk\/#organization"},"alternateName":"Masscomm Solutions","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/masscomm.pk\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/masscomm.pk\/#organization","name":"Masscomm Solutions (Pvt) Ltd.","alternateName":"Masscomm Solutions","url":"https:\/\/masscomm.pk\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/masscomm.pk\/#\/schema\/logo\/image\/","url":"https:\/\/masscomm.pk\/wp-content\/uploads\/2025\/01\/mcs-logo1-e1738038201707.png","contentUrl":"https:\/\/masscomm.pk\/wp-content\/uploads\/2025\/01\/mcs-logo1-e1738038201707.png","width":153,"height":48,"caption":"Masscomm Solutions (Pvt) Ltd."},"image":{"@id":"https:\/\/masscomm.pk\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/MassCommSolution\/","https:\/\/x.com\/Qamarmayo","https:\/\/www.youtube.com\/@masscommsolutionsonline","https:\/\/www.pinterest.com\/masscommsolutions\/","https:\/\/www.tiktok.com\/@masscommsolutionspvtltd"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Masscomm Solutions &raquo; Feed" href="https://masscomm.pk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Masscomm Solutions &raquo; Comments Feed" href="https://masscomm.pk/comments/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v11.2.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-663QN2XKGT"  data-cfasync="false" data-wpfc-render="false" async></script>
+			<script data-cfasync="false" data-wpfc-render="false">
+				var mi_version = '11.2.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/masscomm.pk\/wp-content\/uploads\/2026\/04\/Sound-System-Rental.jpg\/"};
+								if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-663QN2XKGT',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-663QN2XKGT', {"forceSSL":"true","link_attribution":"true","page_path":'\/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+							<!-- / Google Analytics by MonsterInsights -->
+		<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='hfe-widgets-style-css' href='https://masscomm.pk/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.9.4' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://masscomm.pk/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='https://masscomm.pk/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.2.4' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://masscomm.pk/wp-includes/css/dist/block-library/style.min.css?ver=7.1' media='all' />
+<style id="wp-block-library-theme-inline-css">
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote :where(cite),.wp-block-pullquote :where(footer),.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:hsla(0,0%,100%,.65)}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+/*# sourceURL=/wp-includes/css/dist/block-library/theme.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='rebuilto-gutenberg-blocks-css' href='https://masscomm.pk/wp-content/themes/rebuilto/assets/css/base/gutenberg-blocks.css?ver=1.0.7' media='all' />
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:where(.wp-block-gallery.is-layout-flex){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}:where(.wp-block-gallery.is-layout-grid){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+:where(.wp-block-latest-posts.is-layout-flex){gap: 1.25em;}:where(.wp-block-latest-posts.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://masscomm.pk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7' media='all' />
+<link rel='stylesheet' id='hfe-style-css' href='https://masscomm.pk/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.9.4' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://masscomm.pk/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1788840452' media='all' />
+<link rel='stylesheet' id='elementor-post-39-css' href='https://masscomm.pk/wp-content/uploads/elementor/css/post-39.css?ver=1788840452' media='all' />
+<link rel='stylesheet' id='elementor-post-63-css' href='https://masscomm.pk/wp-content/uploads/elementor/css/post-63.css?ver=1788840454' media='all' />
+<link rel='stylesheet' id='elementor-post-6016-css' href='https://masscomm.pk/wp-content/uploads/elementor/css/post-6016.css?ver=1788840454' media='all' />
+<link rel='stylesheet' id='rebuilto-style-css' href='https://masscomm.pk/wp-content/themes/rebuilto/style.css?ver=1.0.7' media='all' />
+<style id="rebuilto-style-inline-css">
+body{--vertical-line-color:#e3e3e3;}
+body{--primary:#FF792D;--primary_hover:#E56C28;--text:#555555;--text_light:#888888;--accent:#000000;--border:#DFE1E7;--background:#FFFFFF;--background_light:#F3F5FA;}
+/*# sourceURL=rebuilto-style-inline-css */
+</style>
+<link rel='stylesheet' id='rebuilto-fonts-css' href='https://fonts.googleapis.com/css2?family=Inter:wght@100..900&#038;family=Unbounded:wght@600&#038;subset=latin%2Clatin-ext&#038;display=swap' media='all' />
+<link rel='stylesheet' id='elementor-post-2367-css' href='https://masscomm.pk/wp-content/uploads/elementor/css/post-2367.css?ver=1788840454' media='all' />
+<link rel='stylesheet' id='elementor-post-7922-css' href='https://masscomm.pk/wp-content/uploads/elementor/css/post-7922.css?ver=1788840454' media='all' />
+<link rel='stylesheet' id='elementor-post-622-css' href='https://masscomm.pk/wp-content/uploads/elementor/css/post-622.css?ver=1788840477' media='all' />
+<link rel='stylesheet' id='rebuilto-elementor-css' href='https://masscomm.pk/wp-content/themes/rebuilto/assets/css/base/elementor.css?ver=1.0.7' media='all' />
+<link rel='stylesheet' id='hfe-elementor-icons-css' href='https://masscomm.pk/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0' media='all' />
+<link rel='stylesheet' id='hfe-icons-list-css' href='https://masscomm.pk/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3' media='all' />
+<link rel='stylesheet' id='hfe-social-icons-css' href='https://masscomm.pk/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-brands-css' href='https://masscomm.pk/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-fontawesome-css' href='https://masscomm.pk/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='hfe-nav-menu-icons-css' href='https://masscomm.pk/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='hfe-widget-blockquote-css' href='https://masscomm.pk/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css?ver=3.25.0' media='all' />
+<link rel='stylesheet' id='hfe-mega-menu-css' href='https://masscomm.pk/wp-content/plugins/elementor-pro/assets/css/widget-mega-menu.min.css?ver=3.26.2' media='all' />
+<link rel='stylesheet' id='hfe-nav-menu-widget-css' href='https://masscomm.pk/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.26.0' media='all' />
+<link rel='stylesheet' id='rebuilto-child-style-css' href='https://masscomm.pk/wp-content/themes/rebuilto-child/style.css?ver=1.0.8' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-unbounded-css' href='https://masscomm.pk/wp-content/uploads/elementor/google-fonts/css/unbounded.css?ver=1752574241' media='all' />
+<script async data-wp-strategy="async" id="monsterinsights-frontend-script-js" src="https://masscomm.pk/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=11.2.0"></script>
+<script data-cfasync="false" data-wpfc-render="false" id='monsterinsights-frontend-script-js-extra'>var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/masscomm.pk","hash_tracking":"false","v4_id":"G-663QN2XKGT"};</script>
+<script id="jquery-core-js" src="https://masscomm.pk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://masscomm.pk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="jquery-js-after">
+!function($){"use strict";$(document).ready(function(){$(this).scrollTop()>100&&$(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"),$(window).scroll(function(){$(this).scrollTop()<100?$(".hfe-scroll-to-top-wrap").fadeOut(300):$(".hfe-scroll-to-top-wrap").fadeIn(300)}),$(".hfe-scroll-to-top-wrap").on("click",function(){$("html, body").animate({scrollTop:0},300);return!1})})}(jQuery);
+!function($){'use strict';$(document).ready(function(){var bar=$('.hfe-reading-progress-bar');if(!bar.length)return;$(window).on('scroll',function(){var s=$(window).scrollTop(),d=$(document).height()-$(window).height(),p=d? s/d*100:0;bar.css('width',p+'%')});});}(jQuery);
+//# sourceURL=jquery-js-after
+</script>
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+<!-- Google Analytics snippet added by Site Kit -->
+<script id="google_gtagjs-js" src="https://www.googletagmanager.com/gtag/js?id=GT-5DDG669P" async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["masscomm.pk"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-5DDG669P");
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); }; 
+//# sourceURL=google_gtagjs-js-after
+</script>
+<link rel="https://api.w.org/" href="https://masscomm.pk/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://masscomm.pk/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1" />
+<meta name="generator" content="Site Kit by Google 1.187.0" /><meta name="google-site-verification" content="U-VaIJo3IgmgrmANVY4Mitor7-kGsbOYZimHPtzY70M">
+<!-- Google AdSense meta tags added by Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- End Google AdSense meta tags added by Site Kit -->
+<meta name="generator" content="Elementor 4.2.4; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<meta name="generator" content="Powered by Slider Revolution 6.7.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://masscomm.pk/wp-content/uploads/2025/01/cropped-mcs-logo1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://masscomm.pk/wp-content/uploads/2025/01/cropped-mcs-logo1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://masscomm.pk/wp-content/uploads/2025/01/cropped-mcs-logo1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://masscomm.pk/wp-content/uploads/2025/01/cropped-mcs-logo1-270x270.png" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+<style id="wp-custom-css">
+.main-navigation ul.menu li.menu-item .sub-menu .menu-item a{
+	color : #fff !important;
+}
+</style>
+</head>
+<body class="error404 wp-custom-logo wp-embed-responsive wp-theme-rebuilto wp-child-theme-rebuilto-child ehf-header ehf-footer ehf-template-rebuilto ehf-stylesheet-rebuilto-child theme-rebuilto group-blog no-wc-breadcrumb has-post-thumbnail elementor-default elementor-kit-39">
+
+<div id="page" class="hfeed site">
+			<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			<p class="main-title bhf-hidden" itemprop="headline"><a href="https://masscomm.pk/" title="Masscomm Solutions" rel="home">Masscomm Solutions</a></p>
+			<style>.elementor-63 .elementor-element.elementor-element-2e401ff{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:0px;--padding-bottom:0px;--padding-left:30px;--padding-right:30px;}.elementor-63 .elementor-element.elementor-element-2e401ff:not(.elementor-motion-effects-element-type-background), .elementor-63 .elementor-element.elementor-element-2e401ff > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-accent );}.elementor-widget-navigation-menu .menu-item a.hfe-menu-item.elementor-button{background-color:var( --e-global-color-accent );}.elementor-widget-navigation-menu .menu-item a.hfe-menu-item.elementor-button:hover{background-color:var( --e-global-color-accent );}.elementor-widget-navigation-menu .menu-item a.hfe-menu-item, .elementor-widget-navigation-menu .sub-menu a.hfe-sub-menu-item{color:var( --e-global-color-text );}.elementor-widget-navigation-menu .menu-item a.hfe-menu-item:hover,
+								.elementor-widget-navigation-menu .sub-menu a.hfe-sub-menu-item:hover,
+								.elementor-widget-navigation-menu .menu-item.current-menu-item a.hfe-menu-item,
+								.elementor-widget-navigation-menu .menu-item a.hfe-menu-item.highlighted,
+								.elementor-widget-navigation-menu .menu-item a.hfe-menu-item:focus{color:var( --e-global-color-accent );}.elementor-widget-navigation-menu .hfe-nav-menu-layout:not(.hfe-pointer__framed) .menu-item.parent a.hfe-menu-item:before,
+								.elementor-widget-navigation-menu .hfe-nav-menu-layout:not(.hfe-pointer__framed) .menu-item.parent a.hfe-menu-item:after{background-color:var( --e-global-color-accent );}.elementor-widget-navigation-menu .hfe-nav-menu-layout:not(.hfe-pointer__framed) .menu-item.parent .sub-menu .hfe-has-submenu-container a:after{background-color:var( --e-global-color-accent );}.elementor-widget-navigation-menu .hfe-pointer__framed .menu-item.parent a.hfe-menu-item:before,
+								.elementor-widget-navigation-menu .hfe-pointer__framed .menu-item.parent a.hfe-menu-item:after{border-color:var( --e-global-color-accent );}.elementor-63 .elementor-element.elementor-element-c4ceadb .menu-item a.hfe-menu-item{padding-left:15px;padding-right:15px;}.elementor-63 .elementor-element.elementor-element-c4ceadb .menu-item a.hfe-sub-menu-item{padding-left:calc( 15px + 20px );padding-right:15px;}.elementor-63 .elementor-element.elementor-element-c4ceadb .hfe-nav-menu__layout-vertical .menu-item ul ul a.hfe-sub-menu-item{padding-left:calc( 15px + 40px );padding-right:15px;}.elementor-63 .elementor-element.elementor-element-c4ceadb .hfe-nav-menu__layout-vertical .menu-item ul ul ul a.hfe-sub-menu-item{padding-left:calc( 15px + 60px );padding-right:15px;}.elementor-63 .elementor-element.elementor-element-c4ceadb .hfe-nav-menu__layout-vertical .menu-item ul ul ul ul a.hfe-sub-menu-item{padding-left:calc( 15px + 80px );padding-right:15px;}.elementor-63 .elementor-element.elementor-element-c4ceadb .menu-item a.hfe-menu-item, .elementor-63 .elementor-element.elementor-element-c4ceadb .menu-item a.hfe-sub-menu-item{padding-top:15px;padding-bottom:15px;}.elementor-63 .elementor-element.elementor-element-c4ceadb ul.sub-menu{width:220px;}.elementor-63 .elementor-element.elementor-element-c4ceadb .sub-menu a.hfe-sub-menu-item,
+						 .elementor-63 .elementor-element.elementor-element-c4ceadb nav.hfe-dropdown li a.hfe-menu-item,
+						 .elementor-63 .elementor-element.elementor-element-c4ceadb nav.hfe-dropdown li a.hfe-sub-menu-item,
+						 .elementor-63 .elementor-element.elementor-element-c4ceadb nav.hfe-dropdown-expandible li a.hfe-menu-item,
+						 .elementor-63 .elementor-element.elementor-element-c4ceadb nav.hfe-dropdown-expandible li a.hfe-sub-menu-item{padding-top:15px;padding-bottom:15px;}.elementor-63 .elementor-element.elementor-element-c4ceadb .hfe-nav-menu__toggle{margin:0 auto;}.elementor-63 .elementor-element.elementor-element-c4ceadb .menu-item a.hfe-menu-item, .elementor-63 .elementor-element.elementor-element-c4ceadb .sub-menu a.hfe-sub-menu-item{color:var( --e-global-color-text );}.elementor-63 .elementor-element.elementor-element-c4ceadb .sub-menu,
+								.elementor-63 .elementor-element.elementor-element-c4ceadb nav.hfe-dropdown,
+								.elementor-63 .elementor-element.elementor-element-c4ceadb nav.hfe-dropdown-expandible,
+								.elementor-63 .elementor-element.elementor-element-c4ceadb nav.hfe-dropdown .menu-item a.hfe-menu-item,
+								.elementor-63 .elementor-element.elementor-element-c4ceadb nav.hfe-dropdown .menu-item a.hfe-sub-menu-item{background-color:#fff;}.elementor-63 .elementor-element.elementor-element-c4ceadb .sub-menu li.menu-item:not(:last-child),
+						.elementor-63 .elementor-element.elementor-element-c4ceadb nav.hfe-dropdown li.menu-item:not(:last-child),
+						.elementor-63 .elementor-element.elementor-element-c4ceadb nav.hfe-dropdown-expandible li.menu-item:not(:last-child){border-bottom-style:solid;border-bottom-color:#c4c4c4;border-bottom-width:1px;}.elementor-63 .elementor-element.elementor-element-c4ceadb div.hfe-nav-menu-icon{color:var( --e-global-color-background );}.elementor-63 .elementor-element.elementor-element-c4ceadb div.hfe-nav-menu-icon svg{fill:var( --e-global-color-background );}.elementor-widget-site-logo .hfe-site-logo-container .hfe-site-logo-img{border-color:var( --e-global-color-primary );}.elementor-widget-site-logo .widget-image-caption{color:var( --e-global-color-text );}.elementor-63 .elementor-element.elementor-element-5a4d426 .hfe-site-logo-container, .elementor-63 .elementor-element.elementor-element-5a4d426 .hfe-caption-width figcaption{text-align:center;}.elementor-63 .elementor-element.elementor-element-5a4d426 .hfe-site-logo .hfe-site-logo-container img{width:300px;}.elementor-63 .elementor-element.elementor-element-5a4d426 .widget-image-caption{margin-top:0px;margin-bottom:0px;}.elementor-63 .elementor-element.elementor-element-5a4d426 .hfe-site-logo-container .hfe-site-logo-img{border-style:none;}.elementor-63 .elementor-element.elementor-element-4d22cc0{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:flex-end;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}#masthead.change-background{background-color:#000000E6;}.elementor-63 .elementor-element.elementor-element-18a0b96 .main-navigation{text-align:center;}.elementor-63 .elementor-element.elementor-element-18a0b96 .main-navigation ul.menu > li.menu-item > a:not(:hover){color:#FFFFFF;}.elementor-63 .elementor-element.elementor-element-d4d030e .button-popup:hover, .elementor-63 .elementor-element.elementor-element-d4d030e .button-popup:focus{background-color:var( --e-global-color-primary_hover );}.elementor-63 .elementor-element.elementor-element-d4d030e > .elementor-widget-container{margin:0px 0px 0px 30px;}.elementor-63 .elementor-element.elementor-element-d4d030e .button-popup .elementor-align-icon-right{margin-left:0px;}.elementor-63 .elementor-element.elementor-element-d4d030e .button-popup .elementor-align-icon-left{margin-right:0px;}.elementor-63 .elementor-element.elementor-element-d4d030e .button-popup{fill:#FFFFFF;color:#FFFFFF;padding:13px 18px 15px 18px;}.breadcrumb-wrap .breadcrumb-overlay, .elementor-page-8197 .breadcrumb-wrap .breadcrumb-overlay{opacity:0.5;}@media(max-width:1024px){.elementor-63 .elementor-element.elementor-element-2e401ff{--justify-content:space-between;--padding-top:20px;--padding-bottom:20px;--padding-left:30px;--padding-right:30px;}.elementor-63 .elementor-element.elementor-element-d4d030e > .elementor-widget-container{margin:0px 0px 0px 0px;}}@media(max-width:767px){.elementor-63 .elementor-element.elementor-element-2e401ff{--padding-top:15px;--padding-bottom:15px;--padding-left:15px;--padding-right:15px;}.elementor-63 .elementor-element.elementor-element-c4ceadb{width:var( --container-widget-width, 60px );max-width:60px;--container-widget-width:60px;--container-widget-flex-grow:0;}.elementor-63 .elementor-element.elementor-element-5a4d426 .hfe-site-logo .hfe-site-logo-container img{width:160px;}.elementor-63 .elementor-element.elementor-element-5a4d426 .hfe-site-logo img{max-width:100%;}.elementor-63 .elementor-element.elementor-element-4d22cc0{--width:60px;}.elementor-63 .elementor-element.elementor-element-d4d030e .button-popup{padding:7px 12px 8px 12px;}}@media(min-width:768px){.elementor-63 .elementor-element.elementor-element-2e401ff{--content-width:1760px;}.elementor-63 .elementor-element.elementor-element-4d22cc0{--width:calc(100% - 155px);}}@media(max-width:1024px) and (min-width:768px){.elementor-63 .elementor-element.elementor-element-4d22cc0{--width:100px;}}/* Start custom CSS for container, class: .elementor-element-2e401ff */.elementor-63 .elementor-element.elementor-element-2e401ff{
+transition: all 0.3s ease;
+}
+.change-background .elementor-63 .elementor-element.elementor-element-2e401ff{
+background: rgba(0,0,0,0.9);
+}/* End custom CSS */</style>		<div data-elementor-type="wp-post" data-elementor-id="63" class="elementor elementor-63 header-absolute" data-elementor-post-type="elementor-hf">
+				<div class="elementor-element elementor-element-2e401ff e-flex e-con-boxed e-con e-parent" data-id="2e401ff" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c4ceadb elementor-widget-mobile__width-initial elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet_extra elementor-hidden-tablet hfe-nav-menu__align-left hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-link-redirect-child hfe-nav-menu__breakpoint-tablet elementor-widget elementor-widget-navigation-menu" data-id="c4ceadb" data-element_type="widget" data-e-type="widget" data-settings="{&quot;padding_horizontal_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;dropdown_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;width_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;220&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="navigation-menu.default">
+				<div class="elementor-widget-container">
+								<div class="hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__none" data-layout="horizontal">
+				<div role="button" class="hfe-nav-menu__toggle elementor-clickable" tabindex="0" aria-label="Menu Toggle">
+					<span class="screen-reader-text">Menu</span>
+					<div class="hfe-nav-menu-icon">
+						<svg aria-hidden="true"  class="e-font-icon-svg e-fas-align-left" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M12.83 352h262.34A12.82 12.82 0 0 0 288 339.17v-38.34A12.82 12.82 0 0 0 275.17 288H12.83A12.82 12.82 0 0 0 0 300.83v38.34A12.82 12.82 0 0 0 12.83 352zm0-256h262.34A12.82 12.82 0 0 0 288 83.17V44.83A12.82 12.82 0 0 0 275.17 32H12.83A12.82 12.82 0 0 0 0 44.83v38.34A12.82 12.82 0 0 0 12.83 96zM432 160H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0 256H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"></path></svg>					</div>
+				</div>
+				<nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="&lt;svg aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;e-font-icon-svg e-fas-align-left&quot; viewBox=&quot;0 0 448 512&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M12.83 352h262.34A12.82 12.82 0 0 0 288 339.17v-38.34A12.82 12.82 0 0 0 275.17 288H12.83A12.82 12.82 0 0 0 0 300.83v38.34A12.82 12.82 0 0 0 12.83 352zm0-256h262.34A12.82 12.82 0 0 0 288 83.17V44.83A12.82 12.82 0 0 0 275.17 32H12.83A12.82 12.82 0 0 0 0 44.83v38.34A12.82 12.82 0 0 0 12.83 96zM432 160H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0 256H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" data-close-icon="&lt;svg aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;e-font-icon-svg e-far-window-close&quot; viewBox=&quot;0 0 512 512&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M464 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h416c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm0 394c0 3.3-2.7 6-6 6H54c-3.3 0-6-2.7-6-6V86c0-3.3 2.7-6 6-6h404c3.3 0 6 2.7 6 6v340zM356.5 194.6L295.1 256l61.4 61.4c4.6 4.6 4.6 12.1 0 16.8l-22.3 22.3c-4.6 4.6-12.1 4.6-16.8 0L256 295.1l-61.4 61.4c-4.6 4.6-12.1 4.6-16.8 0l-22.3-22.3c-4.6-4.6-4.6-12.1 0-16.8l61.4-61.4-61.4-61.4c-4.6-4.6-4.6-12.1 0-16.8l22.3-22.3c4.6-4.6 12.1-4.6 16.8 0l61.4 61.4 61.4-61.4c4.6-4.6 12.1-4.6 16.8 0l22.3 22.3c4.7 4.6 4.7 12.1 0 16.8z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" data-full-width="yes">
+					<ul id="menu-1-c4ceadb" class="hfe-nav-menu"><li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false"><a class = "hfe-menu-item">Company<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-5443" class="menu-item menu-item-type-post_type menu-item-object-page hfe-creative-menu"><a href="https://masscomm.pk/our-team/" class = "hfe-sub-menu-item">Our Team</a></li>
+	<li id="menu-item-5444" class="menu-item menu-item-type-post_type menu-item-object-page hfe-creative-menu"><a href="https://masscomm.pk/awards-recognition/" class = "hfe-sub-menu-item">Awards &amp; Recognition</a></li>
+	<li id="menu-item-5445" class="menu-item menu-item-type-post_type menu-item-object-page hfe-creative-menu"><a href="https://masscomm.pk/vision-values/" class = "hfe-sub-menu-item">Vision &amp; Values</a></li>
+	<li id="menu-item-5446" class="menu-item menu-item-type-post_type menu-item-object-page hfe-creative-menu"><a href="https://masscomm.pk/clients-partners/" class = "hfe-sub-menu-item">Clients &amp; Partners</a></li>
+	<li id="menu-item-5447" class="menu-item menu-item-type-post_type menu-item-object-page hfe-creative-menu"><a href="https://masscomm.pk/careers/" class = "hfe-sub-menu-item">Careers</a></li>
+	<li id="menu-item-5448" class="menu-item menu-item-type-post_type menu-item-object-page hfe-creative-menu"><a href="https://masscomm.pk/faqs/" class = "hfe-sub-menu-item">FAQs</a></li>
+</ul>
+</li>
+<li id="menu-item-7901" class="elementor-template id7905 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container" tabindex="0" role="button" aria-haspopup="true" aria-expanded="false"><a href="http://[elementor-template%20id=7905]" class = "hfe-menu-item">Services<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
+<ul class="sub-menu">
+	<li id="menu-item-7893" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://masscomm.pk/services/stage-and-lights/" class = "hfe-sub-menu-item">Stage &#038; lights</a></li>
+	<li id="menu-item-7894" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://masscomm.pk/services/stalls-fabrication-and-branding/" class = "hfe-sub-menu-item">Stalls fabrication &#038; branding</a></li>
+	<li id="menu-item-7895" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://masscomm.pk/services/food-catering/" class = "hfe-sub-menu-item">Food &#038; catering</a></li>
+	<li id="menu-item-7896" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://masscomm.pk/services/event-coverage/" class = "hfe-sub-menu-item">Event coverage</a></li>
+	<li id="menu-item-7897" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://masscomm.pk/services/smd-screens/" class = "hfe-sub-menu-item">SMD Screens</a></li>
+	<li id="menu-item-7898" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://masscomm.pk/services/sound-systems/" class = "hfe-sub-menu-item">Sound Systems</a></li>
+	<li id="menu-item-7899" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://masscomm.pk/services/venue-branding-decor/" class = "hfe-sub-menu-item">Venue Branding &#038; Décor</a></li>
+</ul>
+</li>
+<li id="menu-item-6859" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent parent hfe-creative-menu"><a href="https://masscomm.pk/blogs/" class = "hfe-menu-item">Blogs</a></li>
+<li id="menu-item-5898" class="menu-item menu-item-type-custom menu-item-object-custom parent hfe-creative-menu"><a href="https://masscomm.pk/projects/" class = "hfe-menu-item">Projects</a></li>
+<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://masscomm.pk/contact/" class = "hfe-menu-item">Contact</a></li>
+</ul> 
+				</nav>
+			</div>
+							</div>
+				</div>
+				<div class="elementor-element elementor-element-5a4d426 elementor-widget elementor-widget-site-logo" data-id="5a4d426" data-element_type="widget" data-e-type="widget" data-settings="{&quot;width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:300,&quot;sizes&quot;:[]},&quot;width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:160,&quot;sizes&quot;:[]},&quot;space_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;align&quot;:&quot;center&quot;,&quot;width_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;caption_space_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;caption_space_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;caption_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;caption_space_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;caption_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="site-logo.default">
+				<div class="elementor-widget-container">
+							<div class="hfe-site-logo">
+													<a data-elementor-open-lightbox=""  class='elementor-clickable' href="https://masscomm.pk/">
+							<div class="hfe-site-logo-set">           
+				<div class="hfe-site-logo-container">
+									<img class="hfe-site-logo-img elementor-animation-"  src="https://masscomm.pk/wp-content/uploads/2024/03/MassComm-solutions-white-logo-png-1.png" alt="SMD screens on rent in islamabad Pakistan by Masscomm Solutions best event management company in Islamabad"/>
+				</div>
+			</div>
+							</a>
+						</div>  
+							</div>
+				</div>
+		<div class="elementor-element elementor-element-4d22cc0 e-con-full e-flex e-con e-child" data-id="4d22cc0" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-18a0b96 elementor-hidden-tablet elementor-hidden-mobile_extra elementor-hidden-mobile change-bg-yes elementor-widget elementor-widget-rebuilto-nav-menu" data-id="18a0b96" data-element_type="widget" data-e-type="widget" data-widget_type="rebuilto-nav-menu.default">
+				<div class="elementor-widget-container">
+					        <div class="elementor-nav-menu-wrapper">
+
+            <nav class="main-navigation">
+                <div class="primary-navigation"><ul id="menu-1-18a0b96" class="menu"><li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-45 has-mega-menu has-stretchwidth"><a><span class="menu-title" >Company</span></a><ul  class="sub-menu mega-menu mega-stretchwidth" ><li class="mega-menu-item">		<div data-elementor-type="page" data-elementor-id="2367" class="elementor elementor-2367" data-elementor-post-type="elementor_library">
+				<div class="elementor-element elementor-element-497fe30 e-flex e-con-boxed e-con e-parent" data-id="497fe30" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-817febb e-con-full e-flex e-con e-child" data-id="817febb" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-6b7d216 e-con-full e-flex e-con e-child" data-id="6b7d216" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-cadef7d e-flex e-con-boxed e-con e-child" data-id="cadef7d" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-26f9f5a elementor-widget__width-initial elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="26f9f5a" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-db49d04 elementor-widget elementor-widget-heading" data-id="db49d04" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">about us.</h2>				</div>
+				</div>
+					</div>
+				</div>
+				<div class="elementor-element elementor-element-f33909e elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="f33909e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">A progressive and dynamic event management <br> company </h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-9195806 elementor-align-justify elementor-widget elementor-widget-button" data-id="9195806" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://masscomm.pk/contact/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="rebuilto-icon- rebuilto-icon-arrow-up-right"></i>			</span>
+									<span class="elementor-button-text">Learn More</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d05b6d9 e-con-full e-flex e-con e-child" data-id="d05b6d9" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-ea54a08 e-con-full e-flex e-con e-child" data-id="ea54a08" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-d6acf20 elementor-align-justify elementor-widget elementor-widget-button" data-id="d6acf20" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://masscomm.pk/about-us/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="rebuilto-icon- rebuilto-icon-arrow-up-right"></i>			</span>
+									<span class="elementor-button-text">Company Overview</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-cb9b7cc elementor-align-justify elementor-widget elementor-widget-button" data-id="cb9b7cc" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://masscomm.pk/services/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="rebuilto-icon- rebuilto-icon-arrow-up-right"></i>			</span>
+									<span class="elementor-button-text">Services</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-edcf597 elementor-align-justify elementor-widget elementor-widget-button" data-id="edcf597" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://masscomm.pk/our-team/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="rebuilto-icon- rebuilto-icon-arrow-up-right"></i>			</span>
+									<span class="elementor-button-text">Our Team</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-ca4df9e elementor-align-justify elementor-widget elementor-widget-button" data-id="ca4df9e" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://masscomm.pk/awards-recognition/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="rebuilto-icon- rebuilto-icon-arrow-up-right"></i>			</span>
+									<span class="elementor-button-text">Awards &amp; Recognition</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c2e6681 e-con-full e-flex e-con e-child" data-id="c2e6681" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-b08807a elementor-align-justify elementor-widget elementor-widget-button" data-id="b08807a" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://masscomm.pk/vision-values/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="rebuilto-icon- rebuilto-icon-arrow-up-right"></i>			</span>
+									<span class="elementor-button-text">Vision &amp; Values</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-2c6fff5 elementor-align-justify elementor-widget elementor-widget-button" data-id="2c6fff5" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://masscomm.pk/clients-partners/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="rebuilto-icon- rebuilto-icon-arrow-up-right"></i>			</span>
+									<span class="elementor-button-text">Clients &amp; Partners</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-6217f73 elementor-align-justify elementor-widget elementor-widget-button" data-id="6217f73" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://masscomm.pk/careers/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="rebuilto-icon- rebuilto-icon-arrow-up-right"></i>			</span>
+									<span class="elementor-button-text">Careers</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-48a9da0 elementor-align-justify elementor-widget elementor-widget-button" data-id="48a9da0" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://masscomm.pk/faqs/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="rebuilto-icon- rebuilto-icon-arrow-up-right"></i>			</span>
+									<span class="elementor-button-text">FAQs</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		</li></ul></li>
+<li id="menu-item-7901" class="elementor-template id7905 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7901"><a href="http://[elementor-template%20id=7905]"><span class="menu-title" >Services</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-7893" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7893"><a href="https://masscomm.pk/services/stage-and-lights/"><span class="menu-title" >Stage &#038; lights</span></a></li>
+	<li id="menu-item-7894" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7894"><a href="https://masscomm.pk/services/stalls-fabrication-and-branding/"><span class="menu-title" >Stalls fabrication &#038; branding</span></a></li>
+	<li id="menu-item-7895" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7895"><a href="https://masscomm.pk/services/food-catering/"><span class="menu-title" >Food &#038; catering</span></a></li>
+	<li id="menu-item-7896" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7896"><a href="https://masscomm.pk/services/event-coverage/"><span class="menu-title" >Event coverage</span></a></li>
+	<li id="menu-item-7897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7897"><a href="https://masscomm.pk/services/smd-screens/"><span class="menu-title" >SMD Screens</span></a></li>
+	<li id="menu-item-7898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7898"><a href="https://masscomm.pk/services/sound-systems/"><span class="menu-title" >Sound Systems</span></a></li>
+	<li id="menu-item-7899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7899"><a href="https://masscomm.pk/services/venue-branding-decor/"><span class="menu-title" >Venue Branding &#038; Décor</span></a></li>
+</ul>
+</li>
+<li id="menu-item-6859" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-6859"><a href="https://masscomm.pk/blogs/"><span class="menu-title" >Blogs</span></a></li>
+<li id="menu-item-5898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5898"><a href="https://masscomm.pk/projects/"><span class="menu-title" >Projects</span></a></li>
+<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="https://masscomm.pk/contact/"><span class="menu-title" >Contact</span></a></li>
+</ul></div>            </nav>
+        </div>
+        				</div>
+				</div>
+				<div class="elementor-element elementor-element-d4d030e elementor-widget elementor-widget-rebuilto-button-popup" data-id="d4d030e" data-element_type="widget" data-e-type="widget" data-widget_type="rebuilto-button-popup.default">
+				<div class="elementor-widget-container">
+					        <div class="elementor-button-wrapper rebuilto-button-popup">
+            <a class="button-popup elementor-button" role="button" href="#rebuilto-button-popup-d4d030e" data-effect="my-mfp-slide-left">
+                        <span class="elementor-button-content-wrapper">
+			                <span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="rebuilto-icon- rebuilto-icon-navigation"></i>			</span>
+            		</span>
+                    </a>
+        </div>
+        <div class="mfp-hide button-popup-content button-popup-content-d4d030e" id="rebuilto-button-popup-d4d030e">
+            <div class="button-popup-content-inner">
+                		<div data-elementor-type="container" data-elementor-id="1756" class="elementor elementor-1756" data-elementor-post-type="elementor_library">
+				<div class="elementor-element elementor-element-30b8555 e-flex e-con-boxed e-con e-parent" data-id="30b8555" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-0130954 e-flex e-con-boxed e-con e-child" data-id="0130954" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-4796725 elementor-widget elementor-widget-heading" data-id="4796725" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">contact us</h6>				</div>
+				</div>
+		<div class="elementor-element elementor-element-862569a e-flex e-con-boxed e-con e-child" data-id="862569a" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-78cac4f elementor-widget elementor-widget-heading" data-id="78cac4f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Office Locations</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ed5f0d9 elementor-widget elementor-widget-text-editor" data-id="ed5f0d9" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>We usually respond within 24 hours. Alternateively you&#8217;re welcome to call our offices.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-7c0d0e4 elementor-widget elementor-widget-image" data-id="7c0d0e4" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="370" height="220" src="https://masscomm.pk/wp-content/uploads/2024/03/popup-button.jpg" class="attachment-full size-full wp-image-1762" alt="" srcset="https://masscomm.pk/wp-content/uploads/2024/03/popup-button.jpg 370w, https://masscomm.pk/wp-content/uploads/2024/03/popup-button-300x178.jpg 300w" sizes="(max-width: 370px) 100vw, 370px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-a3bfc31 elementor-widget elementor-widget-text-editor" data-id="a3bfc31" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Office # 6, floor # 3 , trade center Gulberg 
+greens Islamabad Pakistan 								</div>
+				</div>
+				<div class="elementor-element elementor-element-3bf41c2 elementor-widget elementor-widget-heading" data-id="3bf41c2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<p class="elementor-heading-title elementor-size-default">0333 9854925 </p>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d01bfad elementor-widget elementor-widget-text-editor" data-id="d01bfad" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><a href="mailto:Info@masscomm.pk">Info@masscomm.pk</a></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-89a3cf9 e-grid-align-left icon-style-rebuilto-yes elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="89a3cf9" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-861556c" href="https://www.facebook.com/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-53fb0b6" href="https://www.instagram.com/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-instagram" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-x-twitter elementor-repeater-item-4e2f5ea" href="https://twitter.com/" target="_blank">
+						<span class="elementor-screen-only">X-twitter</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-x-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-fe9c305" href="https://www.youtube.com/" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6081e4b e-flex e-con-boxed e-con e-child" data-id="6081e4b" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5b32b0c elementor-align-justify elementor-widget elementor-widget-button" data-id="5b32b0c" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="rebuilto-icon- rebuilto-icon-arrow-up-right"></i>			</span>
+									<span class="elementor-button-text">view all projects</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		            </div>
+        </div>
+        				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</header>
+
+	<div class="breadcrumb-wrap"><div class="breadcrumb-overlay"></div>		<div data-elementor-type="wp-post" data-elementor-id="622" class="elementor elementor-622" data-elementor-post-type="rebuilto-breadcrumb">
+				<div class="elementor-element elementor-element-3e8eb24 e-flex e-con-boxed e-con e-parent" data-id="3e8eb24" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-65c1c78 e-con-full e-flex e-con e-child" data-id="65c1c78" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-957a299 hidden-rebuilto-title-yes elementor-widget elementor-widget-rebuilto-breadcrumb" data-id="957a299" data-element_type="widget" data-e-type="widget" data-widget_type="rebuilto-breadcrumb.default">
+				<div class="elementor-widget-container">
+					        <div class="breadcrumb" typeof="BreadcrumbList" vocab="https://schema.org/">
+            <div class="breadcrumb-listItem"><span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Home." href="https://masscomm.pk" class="home" ><span property="name">Home</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to 404." href="" class="404 current-item" aria-current="page"><span property="name">404</span></a><meta property="position" content="2"></span></div>        </div>
+        				</div>
+				</div>
+				<div class="elementor-element elementor-element-68d69ce elementor-absolute elementor-hidden-mobile elementor-button-type-outline elementor-widget elementor-widget-rebuilto-button" data-id="68d69ce" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="rebuilto-button.default">
+				<div class="elementor-widget-container">
+					        <div class="elementor-button-wrapper">
+            <a href="https://demo2wpopal.b-cdn.net/rebuilto/services-1/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                        <span class="elementor-button-content-wrapper">
+                          <span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="rebuilto-icon- rebuilto-icon-arrow-up-right"></i>			</span>
+            			<span class="elementor-button-text" data-name="view our work">
+                <span>view our work</span>
+            </span>
+		</span>
+                    </a>
+        </div>
+        				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		</div>
+	<div id="content" class="site-content clear" tabindex="-1">
+		<div class="col-full">
+
+
+    <div id="primary" class="content">
+        <main id="main" class="site-main">
+            <div class="error-404 not-found">
+                <div class="page-content">
+                    <header class="page-header">
+                        <div class="error-heading">404</div>
+                        <h2 class="error-title">Page Not Found</h2>
+                        <div class="error-text">Sorry but the page you are looking for doesn’t exist.</div>
+                        <div class="error-button elementor-button-type-outline elementor-widget-rebuilto-button">
+                            <a href="javascript: history.go(-1)" class="elementor-button go-back" role="button">
+                                <span class="elementor-button-text" data-name="Back To Home">
+                                    <span>Back To Home</span>
+                                </span>
+                                <span class="elementor-button-icon elementor-align-icon-right">
+                                    <i aria-hidden="true" class="rebuilto-icon- rebuilto-icon-arrow-up-right"></i>
+                                </span>
+                            </a>
+                        </div>
+                    </header><!-- .page-header -->
+                </div><!-- .page-content -->
+            </div><!-- .error-404 -->
+        </main><!-- #main -->
+    </div><!-- #primary -->
+		</div><!-- .col-fluid -->
+	</div><!-- #content -->
+
+			<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
+			<div class='footer-width-fixer'><style>.elementor-6016 .elementor-element.elementor-element-ef349ec{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:30px;--padding-right:30px;}.elementor-6016 .elementor-element.elementor-element-ef349ec:not(.elementor-motion-effects-element-type-background), .elementor-6016 .elementor-element.elementor-element-ef349ec > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#191919;}.elementor-6016 .elementor-element.elementor-element-7eb787e{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--flex-wrap:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:30px;--padding-right:30px;}.elementor-6016 .elementor-element.elementor-element-980c6cc{--divider-border-style:solid;--divider-color:var( --e-global-color-primary );--divider-border-width:8px;width:100%;max-width:100%;}.elementor-6016 .elementor-element.elementor-element-980c6cc > .elementor-widget-container{margin:0px 0px 40px 0px;}.elementor-6016 .elementor-element.elementor-element-980c6cc .elementor-divider-separator{width:100%;margin:0 auto;margin-center:0;}.elementor-6016 .elementor-element.elementor-element-980c6cc .elementor-divider{text-align:center;padding-block-start:0px;padding-block-end:0px;}.elementor-6016 .elementor-element.elementor-element-f92178a{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:30px;}.elementor-6016 .elementor-element.elementor-element-f92178a.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-widget-icon-box.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-widget-icon-box.elementor-view-framed .elementor-icon, .elementor-widget-icon-box.elementor-view-default .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-icon-box .elementor-icon-box-title{color:var( --e-global-color-primary );}.elementor-widget-icon-box:has(:hover) .elementor-icon-box-title,
+					 .elementor-widget-icon-box:has(:focus) .elementor-icon-box-title{color:var( --e-global-color-primary );}.elementor-widget-icon-box .elementor-icon-box-description{color:var( --e-global-color-text );}.elementor-6016 .elementor-element.elementor-element-b66d259 .elementor-icon-box-wrapper{align-items:start;gap:22px;}.elementor-6016 .elementor-element.elementor-element-b66d259.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-text );}.elementor-6016 .elementor-element.elementor-element-b66d259.elementor-view-framed .elementor-icon, .elementor-6016 .elementor-element.elementor-element-b66d259.elementor-view-default .elementor-icon{fill:var( --e-global-color-text );color:var( --e-global-color-text );border-color:var( --e-global-color-text );}.elementor-6016 .elementor-element.elementor-element-b66d259 .elementor-icon{font-size:48px;}.elementor-6016 .elementor-element.elementor-element-b66d259 .elementor-icon-box-title, .elementor-6016 .elementor-element.elementor-element-b66d259 .elementor-icon-box-title a{font-size:14px;font-weight:600;text-transform:capitalize;}.elementor-6016 .elementor-element.elementor-element-b66d259 .elementor-icon-box-title{color:var( --e-global-color-text_light );}.elementor-6016 .elementor-element.elementor-element-b66d259 .elementor-icon-box-description{font-size:24px;font-weight:700;color:var( --e-global-color-background );}.elementor-6016 .elementor-element.elementor-element-1783cd8{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;border-style:solid;--border-style:solid;border-width:0px 1px 0px 1px;--border-top-width:0px;--border-right-width:1px;--border-bottom-width:0px;--border-left-width:1px;border-color:#FFFFFF26;--border-color:#FFFFFF26;--padding-top:0px;--padding-bottom:0px;--padding-left:30px;--padding-right:30px;}.elementor-6016 .elementor-element.elementor-element-1783cd8.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-6016 .elementor-element.elementor-element-a1627b5 .elementor-icon-box-wrapper{align-items:start;gap:22px;}.elementor-6016 .elementor-element.elementor-element-a1627b5.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-text );}.elementor-6016 .elementor-element.elementor-element-a1627b5.elementor-view-framed .elementor-icon, .elementor-6016 .elementor-element.elementor-element-a1627b5.elementor-view-default .elementor-icon{fill:var( --e-global-color-text );color:var( --e-global-color-text );border-color:var( --e-global-color-text );}.elementor-6016 .elementor-element.elementor-element-a1627b5 .elementor-icon{font-size:48px;}.elementor-6016 .elementor-element.elementor-element-a1627b5 .elementor-icon-box-title, .elementor-6016 .elementor-element.elementor-element-a1627b5 .elementor-icon-box-title a{font-size:14px;font-weight:600;text-transform:capitalize;}.elementor-6016 .elementor-element.elementor-element-a1627b5 .elementor-icon-box-title{color:var( --e-global-color-text_light );}.elementor-6016 .elementor-element.elementor-element-a1627b5 .elementor-icon-box-description{font-size:24px;font-weight:700;color:var( --e-global-color-background );}.elementor-6016 .elementor-element.elementor-element-ddf266e{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:30px;--padding-right:0px;}.elementor-6016 .elementor-element.elementor-element-37c5eb9 .elementor-icon-box-wrapper{align-items:start;gap:22px;}.elementor-6016 .elementor-element.elementor-element-37c5eb9.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-text );}.elementor-6016 .elementor-element.elementor-element-37c5eb9.elementor-view-framed .elementor-icon, .elementor-6016 .elementor-element.elementor-element-37c5eb9.elementor-view-default .elementor-icon{fill:var( --e-global-color-text );color:var( --e-global-color-text );border-color:var( --e-global-color-text );}.elementor-6016 .elementor-element.elementor-element-37c5eb9 .elementor-icon{font-size:48px;}.elementor-6016 .elementor-element.elementor-element-37c5eb9 .elementor-icon-box-title, .elementor-6016 .elementor-element.elementor-element-37c5eb9 .elementor-icon-box-title a{font-size:14px;font-weight:600;text-transform:capitalize;}.elementor-6016 .elementor-element.elementor-element-37c5eb9 .elementor-icon-box-title{color:var( --e-global-color-text_light );}.elementor-6016 .elementor-element.elementor-element-37c5eb9 .elementor-icon-box-description{font-size:24px;font-weight:700;color:var( --e-global-color-background );}.elementor-6016 .elementor-element.elementor-element-295ba12{--divider-border-style:solid;--divider-color:#FFFFFF26;--divider-border-width:1px;width:100%;max-width:100%;}.elementor-6016 .elementor-element.elementor-element-295ba12 .elementor-divider-separator{width:100%;margin:0 auto;margin-center:0;}.elementor-6016 .elementor-element.elementor-element-295ba12 .elementor-divider{text-align:center;padding-block-start:46px;padding-block-end:46px;}.elementor-6016 .elementor-element.elementor-element-ad2f544{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:22px;--padding-bottom:50px;--padding-left:30px;--padding-right:30px;}.elementor-6016 .elementor-element.elementor-element-ad2f544:not(.elementor-motion-effects-element-type-background), .elementor-6016 .elementor-element.elementor-element-ad2f544 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#191919;}.elementor-6016 .elementor-element.elementor-element-32f21c3{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-6016 .elementor-element.elementor-element-32f21c3.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-widget-site-logo .hfe-site-logo-container .hfe-site-logo-img{border-color:var( --e-global-color-primary );}.elementor-widget-site-logo .widget-image-caption{color:var( --e-global-color-text );}.elementor-6016 .elementor-element.elementor-element-0f83102 .hfe-site-logo-container, .elementor-6016 .elementor-element.elementor-element-0f83102 .hfe-caption-width figcaption{text-align:center;}.elementor-6016 .elementor-element.elementor-element-0f83102 .widget-image-caption{margin-top:0px;margin-bottom:0px;}.elementor-6016 .elementor-element.elementor-element-0f83102 > .elementor-widget-container{margin:0px 0px 30px 0px;}.elementor-6016 .elementor-element.elementor-element-0f83102 .hfe-site-logo-container .hfe-site-logo-img{border-style:none;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-repeater-item-055d86b.elementor-social-icon{background-color:#007BB6;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-repeater-item-055d86b.elementor-social-icon i{color:#FFFFFF;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-repeater-item-055d86b.elementor-social-icon svg{fill:#FFFFFF;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-repeater-item-ad76356.elementor-social-icon{background-color:#D90606;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-repeater-item-ad76356.elementor-social-icon i{color:#FFFFFF;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-repeater-item-ad76356.elementor-social-icon svg{fill:#FFFFFF;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-repeater-item-96dd908.elementor-social-icon{background-color:#007BB6;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-repeater-item-96dd908.elementor-social-icon i{color:#FFFFFF;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-repeater-item-96dd908.elementor-social-icon svg{fill:#FFFFFF;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-repeater-item-ff28eb9.elementor-social-icon{background-color:#FF0B0B;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-repeater-item-ff28eb9.elementor-social-icon i{color:#E8E8E8;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-repeater-item-ff28eb9.elementor-social-icon svg{fill:#E8E8E8;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-repeater-item-9354c55.elementor-social-icon{background-color:#000000;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-repeater-item-9354c55.elementor-social-icon i{color:#FFFDFD;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-repeater-item-9354c55.elementor-social-icon svg{fill:#FFFDFD;}.elementor-6016 .elementor-element.elementor-element-1ba528c{--grid-template-columns:repeat(0, auto);--icon-size:20px;--grid-column-gap:2px;--grid-row-gap:0px;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-widget-container{text-align:left;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-social-icon{background-color:#262626;--icon-padding:15px;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-social-icon i{color:#666666;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-social-icon svg{fill:#666666;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-icon{border-radius:0px 0px 0px 0px;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-social-icon:hover{background-color:var( --e-global-color-primary );}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-social-icon:hover i{color:#FFFFFF;}.elementor-6016 .elementor-element.elementor-element-1ba528c .elementor-social-icon:hover svg{fill:#FFFFFF;}.elementor-6016 .elementor-element.elementor-element-7f72943{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-6016 .elementor-element.elementor-element-7f72943.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-widget-heading .elementor-heading-title{color:var( --e-global-color-primary );}.elementor-6016 .elementor-element.elementor-element-4b2db6e{width:100%;max-width:100%;}.elementor-6016 .elementor-element.elementor-element-4b2db6e > .elementor-widget-container{margin:0px 0px 15px 0px;}.elementor-6016 .elementor-element.elementor-element-4b2db6e .elementor-heading-title{font-size:20px;font-weight:700;color:var( --e-global-color-background );}.elementor-6016 .elementor-element.elementor-element-1076764{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;border-style:solid;--border-style:solid;border-width:1px 0px 0px 0px;--border-top-width:1px;--border-right-width:0px;--border-bottom-width:0px;--border-left-width:0px;border-color:#DFE1E726;--border-color:#DFE1E726;--padding-top:46px;--padding-bottom:46px;--padding-left:30px;--padding-right:30px;}.elementor-6016 .elementor-element.elementor-element-1076764:not(.elementor-motion-effects-element-type-background), .elementor-6016 .elementor-element.elementor-element-1076764 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#191919;}.elementor-widget-text-editor{color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-6016 .elementor-element.elementor-element-cad49d8 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 350px;}.elementor-6016 .elementor-element.elementor-element-cad49d8{font-size:14px;color:var( --e-global-color-text_light );}.breadcrumb-wrap .breadcrumb-overlay, .elementor-page-8197 .breadcrumb-wrap .breadcrumb-overlay{opacity:0.5;}@media(min-width:768px){.elementor-6016 .elementor-element.elementor-element-ef349ec{--content-width:1350px;}.elementor-6016 .elementor-element.elementor-element-7eb787e{--width:100%;}.elementor-6016 .elementor-element.elementor-element-f92178a{--width:33.3333%;}.elementor-6016 .elementor-element.elementor-element-1783cd8{--width:33%;}.elementor-6016 .elementor-element.elementor-element-ddf266e{--width:33.3333%;}.elementor-6016 .elementor-element.elementor-element-ad2f544{--content-width:1290px;}.elementor-6016 .elementor-element.elementor-element-32f21c3{--width:50%;}.elementor-6016 .elementor-element.elementor-element-7f72943{--width:50%;}.elementor-6016 .elementor-element.elementor-element-1076764{--content-width:1290px;}}@media(max-width:1200px) and (min-width:768px){.elementor-6016 .elementor-element.elementor-element-f92178a{--width:281.977px;}.elementor-6016 .elementor-element.elementor-element-1783cd8{--width:407.977px;}.elementor-6016 .elementor-element.elementor-element-32f21c3{--width:467px;}.elementor-6016 .elementor-element.elementor-element-7f72943{--width:499.5px;}}@media(max-width:880px) and (min-width:768px){.elementor-6016 .elementor-element.elementor-element-32f21c3{--width:50%;}.elementor-6016 .elementor-element.elementor-element-7f72943{--width:50%;}}@media(max-width:1366px){.elementor-6016 .elementor-element.elementor-element-7eb787e{--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-6016 .elementor-element.elementor-element-b66d259 .elementor-icon-box-description{font-size:20px;}.elementor-6016 .elementor-element.elementor-element-a1627b5 .elementor-icon-box-description{font-size:20px;}.elementor-6016 .elementor-element.elementor-element-37c5eb9 .elementor-icon-box-description{font-size:20px;}}@media(max-width:1200px){.elementor-6016 .elementor-element.elementor-element-b66d259 .elementor-icon-box-description{font-size:16px;}.elementor-6016 .elementor-element.elementor-element-a1627b5 .elementor-icon-box-description{font-size:16px;}.elementor-6016 .elementor-element.elementor-element-37c5eb9 .elementor-icon-box-description{font-size:16px;}}@media(max-width:1024px){.elementor-6016 .elementor-element.elementor-element-ad2f544{--flex-wrap:wrap;}.elementor-6016 .elementor-element.elementor-element-1ba528c{--grid-template-columns:repeat(0, auto);}}@media(max-width:880px){.elementor-6016 .elementor-element.elementor-element-1783cd8{--padding-top:0px;--padding-bottom:0px;--padding-left:15px;--padding-right:15px;}.elementor-6016 .elementor-element.elementor-element-7f72943.e-con{--order:2;}}@media(max-width:767px){.elementor-6016 .elementor-element.elementor-element-ef349ec{--padding-top:0px;--padding-bottom:0px;--padding-left:15px;--padding-right:15px;}.elementor-6016 .elementor-element.elementor-element-980c6cc > .elementor-widget-container{margin:0px 0px 30px 0px;}.elementor-6016 .elementor-element.elementor-element-f92178a{--padding-top:0px;--padding-bottom:15px;--padding-left:0px;--padding-right:0px;}.elementor-6016 .elementor-element.elementor-element-1783cd8{border-width:1px 0px 1px 0px;--border-top-width:1px;--border-right-width:0px;--border-bottom-width:1px;--border-left-width:0px;--padding-top:15px;--padding-bottom:15px;--padding-left:0px;--padding-right:0px;}.elementor-6016 .elementor-element.elementor-element-ddf266e{--padding-top:15px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-6016 .elementor-element.elementor-element-295ba12 .elementor-divider{padding-block-start:30px;padding-block-end:30px;}.elementor-6016 .elementor-element.elementor-element-ad2f544{--padding-top:0px;--padding-bottom:30px;--padding-left:15px;--padding-right:15px;}.elementor-6016 .elementor-element.elementor-element-7f72943{--padding-top:30px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-6016 .elementor-element.elementor-element-1076764{--padding-top:30px;--padding-bottom:30px;--padding-left:15px;--padding-right:15px;}.elementor-6016 .elementor-element.elementor-element-cad49d8 > .elementor-widget-container{margin:0px 0px 15px 0px;}.elementor-6016 .elementor-element.elementor-element-cad49d8{text-align:center;}}</style>		<div data-elementor-type="wp-post" data-elementor-id="6016" class="elementor elementor-6016" data-elementor-post-type="elementor-hf">
+				<div class="elementor-element elementor-element-ef349ec e-flex e-con-boxed e-con e-parent" data-id="ef349ec" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-7eb787e e-con-full e-flex e-con e-child" data-id="7eb787e" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-980c6cc elementor-widget__width-inherit elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="980c6cc" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-f92178a e-con-full e-flex e-con e-child" data-id="f92178a" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-b66d259 elementor-position-inline-start elementor-tablet-position-block-start elementor-mobile_extra-position-block-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="b66d259" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="tel:+923339854925" class="elementor-icon" tabindex="-1" aria-label="Call us">
+				<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024"><title></title><path d="M734.103 649.835c-27.878-27.524-62.684-27.524-90.385 0-21.133 20.954-42.263 41.907-63.040 63.217-5.683 5.86-10.477 7.102-17.404 3.196-13.673-7.458-28.235-13.495-41.374-21.664-61.263-38.534-112.582-88.077-158.044-143.836-22.551-27.701-42.618-57.357-56.646-90.741-2.842-6.748-2.308-11.187 3.198-16.693 21.131-20.42 41.73-41.374 62.507-62.327 28.943-29.124 28.943-63.217-0.179-92.518-16.514-16.691-33.028-33.028-49.542-49.722-17.047-17.045-33.918-34.271-51.142-51.141-27.878-27.169-62.684-27.169-90.386 0.177-21.309 20.954-41.73 42.441-63.395 63.040-20.066 18.999-30.188 42.261-32.319 69.431-3.374 44.215 7.458 85.948 22.73 126.611 31.253 84.171 78.844 158.931 136.556 227.475 77.956 92.695 171.006 166.033 279.859 218.95 49.011 23.795 99.797 42.086 155.025 45.105 38.001 2.131 71.029-7.458 97.489-37.114 18.112-20.243 38.532-38.711 57.711-58.067 28.412-28.768 28.591-63.573 0.356-91.985-33.741-33.916-67.657-67.657-101.574-101.395z"></path><path d="M700.158 508.305l65.527-11.187c-10.3-60.198-38.714-114.714-81.862-158.044-45.638-45.636-103.349-74.404-166.923-83.283l-9.233 65.882c49.188 6.925 93.937 29.122 129.274 64.461 33.385 33.382 55.228 75.646 63.217 122.172z"></path><path d="M802.669 223.488c-75.648-75.648-171.36-123.416-277.018-138.155l-9.235 65.881c91.275 12.785 174.025 54.161 239.373 119.331 61.973 61.973 102.639 140.284 117.378 226.409l65.525-11.187c-17.225-99.797-64.284-190.362-136.023-262.278z"></path></svg>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<span class="elementor-icon-box-title">
+						<a href="tel:+923339854925" >
+							Call us						</a>
+					</span>
+				
+									<p class="elementor-icon-box-description">
+						0333-9854925					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1783cd8 e-con-full e-flex e-con e-child" data-id="1783cd8" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-a1627b5 elementor-position-inline-start elementor-tablet-position-block-start elementor-mobile_extra-position-block-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="a1627b5" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024"><title></title><path d="M125.678 196.722l276.641 276.761c60.335 60.22 158.963 60.271 219.349 0l276.64-276.761c2.786-2.786 2.379-7.374-0.853-9.628-28.215-19.678-62.545-31.344-99.524-31.344h-571.872c-36.983 0-71.313 11.668-99.529 31.344-3.232 2.254-3.638 6.842-0.852 9.628zM51.75 330.057c0-29.079 7.21-56.557 19.91-80.706 1.986-3.778 7.020-4.542 10.038-1.525l273.137 273.139c86.494 86.62 227.772 86.669 314.317 0l273.137-273.139c3.019-3.017 8.053-2.253 10.039 1.525 12.698 24.149 19.91 51.627 19.91 80.706v363.874c0 96.186-78.242 174.308-174.308 174.308h-571.872c-96.065 0-174.309-78.123-174.309-174.308v-363.874z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<span class="elementor-icon-box-title">
+						<span  >
+							need support						</span>
+					</span>
+				
+									<p class="elementor-icon-box-description">
+						info@masscomm.pk					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ddf266e e-con-full e-flex e-con e-child" data-id="ddf266e" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-37c5eb9 elementor-position-inline-start elementor-tablet-position-block-start elementor-mobile_extra-position-block-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="37c5eb9" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024"><title></title><g id="icomoon-ignore"></g><path d="M512 42.667c-92.826 0-183.567 27.526-260.747 79.097-77.182 51.571-137.338 124.871-172.861 210.631-35.523 85.758-44.817 180.126-26.708 271.168s62.809 174.669 128.447 240.307c65.637 65.636 149.264 110.336 240.306 128.446 91.042 18.108 185.41 8.815 271.168-26.709 85.76-35.522 159.061-95.678 210.63-172.86 51.571-77.18 79.098-167.921 79.098-260.747 0-124.476-49.446-243.851-137.463-331.869-88.017-88.017-207.394-137.465-331.87-137.465zM321.216 130.773l25.451 17.664c5.63 3.922 10.191 9.187 13.269 15.317l6.4 12.8c3.394 6.803 8.619 12.525 15.085 16.523 6.468 3.998 13.92 6.115 21.523 6.112h45.504c10.859 0 21.271 4.313 28.947 11.991 7.678 7.677 11.991 18.089 11.991 28.948v0.811c0.006 7.603-2.11 15.057-6.108 21.525-4 6.466-9.722 11.691-16.527 15.083l-109.163 54.613c-1.527 0.745-3.004 1.594-4.416 2.539l-55.872 37.248c-5.931 3.962-10.731 9.393-13.931 15.765l-8.299 16.683c-2.867 5.67-4.363 11.938-4.363 18.293s1.495 12.623 4.363 18.293c3.836 7.693 5.156 16.395 3.776 24.879-1.382 8.484-5.397 16.318-11.477 22.396l-1.216 1.237c-6.455 6.455-14.884 10.569-23.945 11.68-9.062 1.114-18.236-0.834-26.061-5.536l-71.402-42.88c-8.376-5.035-14.678-12.896-17.771-22.165l-17.557-52.693c-0.811 0-1.387-0.256-2.133-0.277 35.807-107.366 112.744-196.142 213.93-246.848zM556.395 663.957c0.004 2.965-0.471 5.911-1.408 8.725l-18.88 56.619c-1.346 4.068-3.627 7.763-6.656 10.795l-34.133 34.133c-3.863 3.855-6.492 8.77-7.552 14.123l-18.069 90.283c-0.836 4.111-2.598 7.977-5.152 11.302-2.554 3.328-5.835 6.029-9.589 7.898l-14.805 7.424c-5.19 2.577-11.059 3.462-16.779 2.532-5.722-0.93-11.006-3.629-15.115-7.716l-27.435-27.435c-2.097-2.108-3.846-4.535-5.184-7.189l-17.429-34.859c-1.903-3.84-2.897-8.066-2.901-12.352v-88.021c-0.009-5.131-1.442-10.159-4.139-14.524s-6.551-7.898-11.136-10.202l-22.869-11.413c-4.316-2.142-7.994-5.378-10.667-9.387l-35.989-53.995c-3.029-4.533-4.649-9.865-4.651-15.317v-19.2c0.013-5.126 1.449-10.15 4.145-14.511 2.697-4.363 6.549-7.889 11.13-10.193l21.184-10.667c5.353-2.665 9.687-7.002 12.352-12.352l10.667-21.184c2.298-4.572 5.818-8.418 10.165-11.113 4.348-2.697 9.359-4.137 14.475-4.162h38.528c3.629-0.002 7.223 0.71 10.575 2.097 3.354 1.387 6.4 3.422 8.966 5.988l6.165 6.165c5.186 5.178 12.213 8.092 19.541 8.107h5.717c7.337 0.028 14.364 2.963 19.541 8.16 5.178 5.199 8.085 12.237 8.085 19.573 0.013 5.124 1.444 10.146 4.137 14.507 2.692 4.363 6.541 7.891 11.117 10.197l58.88 29.419c4.58 2.308 8.431 5.841 11.123 10.206s4.124 9.391 4.13 14.519l-0.085 23.019zM668.821 258.432c1.903-4.608 4.695-8.798 8.213-12.331l38.208-38.187c2.88-2.877 6.199-5.275 9.835-7.104l40.107-20.053c3.503-1.671 7.247-2.787 11.093-3.307 46.069 36.32 84.177 81.726 111.957 133.397h-18.859c-10.054 0-19.699-3.989-26.816-11.093l-4.608-4.608c-7.115-7.11-16.757-11.108-26.816-11.115h-28.971c-5.924-0.017-11.77 1.357-17.067 4.011l-37.589 18.816c-5.299 2.645-11.145 4.011-17.067 3.989h-6.763c-6.231-0.004-12.369-1.545-17.865-4.484s-10.182-7.189-13.645-12.371c-3.465-5.182-5.596-11.138-6.21-17.34s0.309-12.461 2.69-18.221h0.171zM829.653 796.139l-2.773-6.805c-1.513-4.563-2.283-9.338-2.283-14.144v-49.259c-0.002-6.938-1.617-13.781-4.715-19.989l-35.285-70.528c-3.098-6.208-4.713-13.052-4.715-19.989v-6.528c0-7.616-1.948-15.106-5.655-21.758-3.71-6.652-9.056-12.245-15.535-16.25-6.477-4.006-13.871-6.289-21.478-6.635-7.61-0.343-15.179 1.261-21.993 4.663l-15.296 7.659c-6.202 3.095-13.037 4.708-19.968 4.715h-1.941c-9.382-0.017-18.522-2.978-26.131-8.465-7.61-5.489-13.303-13.229-16.279-22.127l-9.856-29.589c-1.521-4.561-2.3-9.335-2.304-14.144v-35.861c0-7.358 1.815-14.603 5.289-21.088 3.471-6.487 8.493-12.017 14.615-16.096l40.704-27.136c4.26-2.844 8.981-4.928 13.952-6.165l69.248-17.323c8.256-2.061 16.928-1.728 25.003 0.96l47.787 15.936c4.567 1.521 9.35 2.3 14.165 2.304h69.739c18.515 68.26 19.584 140.079 3.108 208.86s-49.969 132.32-97.402 184.783z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<span class="elementor-icon-box-title">
+						<span  >
+							Our Address						</span>
+					</span>
+				
+									<p class="elementor-icon-box-description">
+						Office 308 floor 3, Executive, Gulberg empire, Civic centre, Block, Islamabad, 20000					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-295ba12 elementor-widget__width-inherit elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="295ba12" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-ad2f544 e-flex e-con-boxed e-con e-parent" data-id="ad2f544" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-32f21c3 e-con-full e-flex e-con e-child" data-id="32f21c3" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-0f83102 elementor-widget elementor-widget-site-logo" data-id="0f83102" data-element_type="widget" data-e-type="widget" data-settings="{&quot;align&quot;:&quot;center&quot;,&quot;width&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;caption_space_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;caption_space_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;caption_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;caption_space_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;caption_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="site-logo.default">
+				<div class="elementor-widget-container">
+							<div class="hfe-site-logo">
+													<a data-elementor-open-lightbox=""  class='elementor-clickable' href="https://masscomm.pk/">
+							<div class="hfe-site-logo-set">           
+				<div class="hfe-site-logo-container">
+									<img class="hfe-site-logo-img elementor-animation-"  src="https://masscomm.pk/wp-content/uploads/elementor/thumbs/MassComm-solutions-white-logo-png-r0reuqhj45e195iu8kw8rb31unc36i08eh86otsrwy.png" alt="Event Mangement Islamabad, PK - Masscomm Solutions (Pvt) Ltd."/>
+				</div>
+			</div>
+							</a>
+						</div>  
+							</div>
+				</div>
+				<div class="elementor-element elementor-element-1ba528c e-grid-align-left elementor-grid-tablet-0 icon-style-rebuilto-yes elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="1ba528c" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-055d86b" href="https://www.facebook.com/MassCommSolution/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-ad76356" href="https://www.youtube.com/@masscommsolutionsonline" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-96dd908" href="https://www.linkedin.com/in/kamran-qamar-20a2157/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-linkedin" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-pinterest elementor-repeater-item-ff28eb9" href="https://www.pinterest.com/masscommsolutions/" target="_blank">
+						<span class="elementor-screen-only">Pinterest</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-pinterest" viewBox="0 0 496 512" xmlns="http://www.w3.org/2000/svg"><path d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-tiktok elementor-repeater-item-9354c55" href="https://www.tiktok.com/@masscommsolutionspvtltd" target="_blank">
+						<span class="elementor-screen-only">Tiktok</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-tiktok" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-7f72943 e-con-full e-flex e-con e-child" data-id="7f72943" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-4b2db6e elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="4b2db6e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<span class="elementor-heading-title elementor-size-default">Our Location</span>				</div>
+				</div>
+				<div class="elementor-element elementor-element-9575079 elementor-widget elementor-widget-html" data-id="9575079" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3448.6666169097257!2d73.15017347570357!3d33.60058494144405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38dfbfc8faaaaaab%3A0xaa4cf602a6a3e182!2sMasscomm%20Solutions%20(Pvt)%20Ltd.!5e1!3m2!1sen!2s!4v1774917054082!5m2!1sen!2s" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-1076764 e-flex e-con-boxed e-con e-parent" data-id="1076764" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-cad49d8 elementor-widget elementor-widget-text-editor" data-id="cad49d8" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>© 2026 Masscomm Solutions (Pvt) Ltd. All Rights Reserved.</p>								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		</div>		</footer>
+	
+</div><!-- #page -->
+
+        <div class="account-wrap d-none">
+            <div class="account-inner ">
+                        <div class="login-form-head">
+            <span class="login-form-title">Sign in</span>
+            <span class="pull-right">
+                <a class="register-link" href="https://masscomm.pk/wp-login.php?action=register"
+                   title="Register">Create an Account</a>
+            </span>
+        </div>
+        <form class="rebuilto-login-form-ajax" data-toggle="validator">
+            <p>
+                <label>Username or email <span class="required">*</span></label>
+                <input name="username" type="text" required placeholder="Username">
+            </p>
+            <p>
+                <label>Password <span class="required">*</span></label>
+                <input name="password" type="password" required
+                       placeholder="Password">
+            </p>
+            <button type="submit" data-button-action
+                    class="btn btn-primary btn-block w-100 mt-1">Login</button>
+            <input type="hidden" name="action" value="rebuilto_login">
+            <input type="hidden" id="security-login" name="security-login" value="fc66109993" /><input type="hidden" name="_wp_http_referer" value="/wp-content/uploads/2026/04/Sound-System-Rental.jpg" />        </form>
+        <div class="login-form-bottom">
+            <a href="https://masscomm.pk/wp-login.php?action=lostpassword&redirect_to=https%3A%2F%2Fmasscomm.pk%2Fmasscomm-solutions-pakistans-trusted-supplier-of-absen-smd-led-screens%2F" class="lostpass-link"
+               title="Lost your password?">Lost your password?</a>
+        </div>
+                    </div>
+        </div>
+        
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/rebuilto-child/*","/wp-content/themes/rebuilto/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+        <a href="#" class="scrollup"><i class="rebuilto-icon-arrow-right"></i></a>			<script>
+				( () => {
+					const lazyloadRunObserver = () => {
+						const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+						const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+							entries.forEach( ( entry ) => {
+								if ( entry.isIntersecting ) {
+									let lazyloadBackground = entry.target;
+									if( lazyloadBackground ) {
+										lazyloadBackground.classList.add( 'e-lazyloaded' );
+									}
+									lazyloadBackgroundObserver.unobserve( entry.target );
+								}
+							});
+						}, { rootMargin: '200px 0px 200px 0px' } );
+						lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+							lazyloadBackgroundObserver.observe( lazyloadBackground );
+						} );
+					};
+					const events = [
+						'DOMContentLoaded',
+						'elementor/lazyload/observe',
+					];
+					events.forEach( ( event ) => {
+						document.addEventListener( event, lazyloadRunObserver );
+					} );
+				} )();
+			</script>
+			<link rel='stylesheet' id='elementor-post-1756-css' href='https://masscomm.pk/wp-content/uploads/elementor/css/post-1756.css?ver=1788840454' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://masscomm.pk/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.2.4' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://masscomm.pk/wp-content/uploads/elementor/css/custom-apple-webkit.min.css?ver=1788840452' media='all' />
+<link rel='stylesheet' id='magnific-popup-css' href='https://masscomm.pk/wp-content/themes/rebuilto/assets/css/libs/magnific-popup.css?ver=1.0.7' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='//masscomm.pk/wp-content/plugins/revslider/sr6/assets/css/rs6.css?ver=6.7.1' media='all' />
+<style id="rs-plugin-settings-inline-css">
+#rs-demo-id {}
+/*# sourceURL=rs-plugin-settings-inline-css */
+</style>
+<script id="wp-hooks-js" src="https://masscomm.pk/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255"></script>
+<script id="wp-i18n-js" src="https://masscomm.pk/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="swv-js" src="https://masscomm.pk/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/masscomm.pk\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script id="contact-form-7-js" src="https://masscomm.pk/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7"></script>
+<script defer async id="tp-tools-js" src="//masscomm.pk/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.1"></script>
+<script defer async id="revmin-js" src="//masscomm.pk/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.1"></script>
+<script id="underscore-js" src="https://masscomm.pk/wp-includes/js/underscore.min.js?ver=1.13.8"></script>
+<script id="wp-util-js-extra">
+var _wpUtilSettings = {"ajax":{"url":"/wp-admin/admin-ajax.php"}};
+//# sourceURL=wp-util-js-extra
+</script>
+<script id="wp-util-js" src="https://masscomm.pk/wp-includes/js/wp-util.min.js?ver=7.1"></script>
+<script id="rebuilto-theme-js-extra">
+var rebuiltoAjax = {"ajaxurl":"https://masscomm.pk/wp-admin/admin-ajax.php","i18n":{"sale_text":"Save"}};
+//# sourceURL=rebuilto-theme-js-extra
+</script>
+<script id="rebuilto-theme-js" src="https://masscomm.pk/wp-content/themes/rebuilto/assets/js/frontend/main.min.js?ver=1.0.7"></script>
+<script id="imagesloaded-js" src="https://masscomm.pk/wp-includes/js/imagesloaded.min.js?ver=5.0.0"></script>
+<script id="rebuilto-skip-link-focus-fix-js" src="https://masscomm.pk/wp-content/themes/rebuilto/assets/js/skip-link-focus-fix.min.js?ver=20130115"></script>
+<script id="rebuilto-search-popup-js" src="https://masscomm.pk/wp-content/themes/rebuilto/assets/js/frontend/search-popup.min.js?ver=1.0.7"></script>
+<script id="sticky-kit-js" src="https://masscomm.pk/wp-content/themes/rebuilto/assets/js/vendor/jquery.sticky-kit.min.js?ver=1.0.7"></script>
+<script id="rebuilto-text-editor-js" src="https://masscomm.pk/wp-content/themes/rebuilto/assets/js/frontend/text-editor.min.js?ver=1.0.7"></script>
+<script id="rebuilto-megamenu-frontend-js" src="https://masscomm.pk/wp-content/themes/rebuilto/inc/megamenu/assets/js/frontend.js?ver=1.0.7"></script>
+<script id="rebuilto-ajax-login-js" src="https://masscomm.pk/wp-content/themes/rebuilto/assets/js/frontend/login.js?ver=1.0.7"></script>
+<script id="googlesitekit-consent-mode-js" src="https://masscomm.pk/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-consent-mode-755f1678e260138d789e.js"></script>
+<script id="googlesitekit-events-provider-contact-form-7-js" src="https://masscomm.pk/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-contact-form-7-fac2a8013ba5ba355cd0.js" defer></script>
+<script id="googlesitekit-events-provider-content-events-js-before">
+window._googlesitekit = window._googlesitekit || {};
+window._googlesitekit.contentEvents = {"postID":0,"isSinglePost":false,"hasVimeoEmbed":false};
+//# sourceURL=googlesitekit-events-provider-content-events-js-before
+</script>
+<script id="googlesitekit-events-provider-content-events-js" src="https://masscomm.pk/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-content-events-bb83c1a0aedefa5d25d1.js" defer></script>
+<script id="mc4wp-forms-api-js" defer src="https://masscomm.pk/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.14.0"></script>
+<script id="googlesitekit-events-provider-mailchimp-js" src="https://masscomm.pk/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-mailchimp-ae89b2302ee1e23a78ac.js" defer></script>
+<script id="hfe-frontend-js-js" src="https://masscomm.pk/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=2.9.4"></script>
+<script id="elementor-webpack-runtime-js" src="https://masscomm.pk/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.4"></script>
+<script id="elementor-frontend-modules-js" src="https://masscomm.pk/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.4"></script>
+<script id="jquery-ui-core-js-before">
+jQuery.uiBackCompat = true;
+//# sourceURL=jquery-ui-core-js-before
+</script>
+<script id="jquery-ui-core-js" src="https://masscomm.pk/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnX":"Share on X","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":true},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":true},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":true},"version":"4.2.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_panel_promotions":true,"theme_builder_v2":true,"nested-elements":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true},"urls":{"assets":"https:\/\/masscomm.pk\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/masscomm.pk\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/masscomm.pk\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"dcb8f3d977","atomicFormsSendForm":"9b25997113"},"swiperClass":"swiper","settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_mobile_extra","viewport_tablet","viewport_tablet_extra","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Page not found - Masscomm Solutions","excerpt":""}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script id="elementor-frontend-js" src="https://masscomm.pk/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.4"></script>
+<script id="magnific-popup-js" src="https://masscomm.pk/wp-content/themes/rebuilto/assets/js/vendor/jquery.magnific-popup.min.js?ver=1.0.7"></script>
+<script id="elementor-pro-webpack-runtime-js" src="https://masscomm.pk/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.30.0"></script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/masscomm.pk\/wp-admin\/admin-ajax.php","nonce":"039d081d5f","urls":{"assets":"https:\/\/masscomm.pk\/wp-content\/plugins\/pro-elements\/assets\/","rest":"https:\/\/masscomm.pk\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/masscomm.pk\/wp-content\/plugins\/pro-elements\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script id="elementor-pro-frontend-js" src="https://masscomm.pk/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.30.0"></script>
+<script id="pro-elements-handlers-js" src="https://masscomm.pk/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.30.0"></script>
+<script id="rebuilto-elementor-button-popup-js" src="https://masscomm.pk/wp-content/themes/rebuilto/assets/js/elementor/button-popup.min.js?ver=1.0.7"></script>
+<script id="rebuilto-elementor-nav-menu-js" src="https://masscomm.pk/wp-content/themes/rebuilto/assets/js/elementor/nav-menu.min.js?ver=1.0.7"></script>
+<script id="rebuilto-elementor-frontend-js" src="https://masscomm.pk/wp-content/themes/rebuilto/assets/js/elementor-frontend.min.js?ver=1.0.7"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://masscomm.pk/wp-includes/js/wp-emoji-release.min.js?ver=7.1"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://masscomm.pk/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+
+
+</body>
+</html>
