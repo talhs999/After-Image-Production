@@ -2787,3 +2787,86 @@ html { scroll-behavior: smooth; }
     gap: 0.5rem !important;
   }
 }
+
+
+/* SUPERIOR MOBILE FIXES (Header & Vertical Accordion) */
+@media (max-width: 768px) {
+  /* 1. Header Fixes */
+  .header-container {
+    padding: 0.5rem 1rem !important;
+    gap: 0.5rem !important;
+  }
+  
+  .brand-logo {
+    gap: 0.25rem !important;
+  }
+  
+  .brand-logo img {
+    height: 35px !important; /* Smaller icon on mobile */
+  }
+  
+  .logo-text .logo-name {
+    font-size: 0.9rem !important; /* Smaller text */
+    letter-spacing: 1px !important;
+  }
+  
+  .logo-text .logo-tagline {
+    font-size: 0.45rem !important;
+    letter-spacing: 1px !important;
+  }
+  
+  .header-actions {
+    gap: 0.25rem !important;
+  }
+  
+  .header-actions .btn {
+    padding: 0.4rem 0.6rem !important;
+    font-size: 0.75rem !important;
+  }
+  
+  /* 2. Vertical Accordion with Animation (Like Desktop) */
+  .accordion {
+    flex-direction: column !important;
+    height: 600px !important; /* Fixed total height for the container */
+    min-height: auto !important;
+    width: 100% !important;
+  }
+  
+  .accordion-item {
+    width: 100% !important;
+    height: auto !important;
+    flex: 1 !important; /* Inactive state height */
+    transition: flex 0.5s cubic-bezier(0.25, 1, 0.5, 1) !important;
+    margin-bottom: 5px !important;
+  }
+  
+  .accordion-item.active {
+    width: 100% !important;
+    flex: 5 !important; /* Active state expands vertically */
+  }
+  
+  /* Adjust the image inside the accordion to cover properly vertically */
+  .accordion-item img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    object-position: center !important;
+  }
+  
+  /* Adjust text inside accordion */
+  .accordion-content {
+    bottom: 10px !important;
+    left: 10px !important;
+    right: 10px !important;
+    padding: 1rem !important;
+  }
+  
+  .accordion-content h3 {
+    font-size: 1.2rem !important;
+  }
+  
+  .accordion-content p {
+    font-size: 0.8rem !important;
+    display: block !important; /* Ensure it shows when active */
+  }
+}
